@@ -1,0 +1,1 @@
+[2020-3-18 17:34:52] layer "使用ソフト：Photoshop,": Expected end of input but "," found.
