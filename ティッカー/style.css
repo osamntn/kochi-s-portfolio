@@ -414,11 +414,11 @@ input[type='submit'] {
 }
 .coffeeflow p:last-child {
   padding: 8% 0% 5% 20%;
-  background: red;
+  
 }
 .coffeeflow_2 p:last-child {
   padding: 3% 0% 5% 20%;
-  background: #0000FF;
+ 
 }
 /*ここまでcochicoffee*/
 .work_box {
